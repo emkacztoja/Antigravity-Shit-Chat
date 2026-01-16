@@ -10,7 +10,7 @@
 Antigravity Shit-Chat is a real-time mobile interface designed specifically for monitoring and interacting with Antigravity chat sessions. Whether you're grabbing lunch or taking a break, keep your AI's progress in your pocket.
 
 <p align="center">
-  <img width="800" alt="Antigravity Shit-Chat Preview" src="https://github.com/user-attachments/assets/95318065-d943-43f1-b05c-26fd7c0733dd" />
+  <img width="800" alt="Antigravity Shit-Chat Preview" src="https://assets.emkacz.pl/portfolio/code/AntigravityShitChat.png" />
 </p>
 
 ## ✨ Features
